@@ -1,0 +1,50 @@
+_repo: The-hairy-ones-shall-dance_74120
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Brundage, Margaret
+    alias: Brundage, M.
+    birthdate: 1900
+    deathdate: 1976
+    gutenberg_agent_id: '57353'
+    url: http://www.gutenberg.org/2009/agents/57353
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Brundage
+  - agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    alias: Field, Gans T.
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74120'
+language: en
+pgterms:marc905: 20240430073006field
+pgterms:marc906: '1938'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1938.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Judge Keith Hilary Pursuivant
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Werewolves -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The hairy ones shall dance
+url: http://www.gutenberg.org/ebooks/74120
